@@ -6,7 +6,7 @@ to use  constructors in Javascript
 to use of prototypes in Javascript
 
 ### Author information
-Virginie Mukantwari
+virginie mukantwari
 
 ### Setup instructions
 
