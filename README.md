@@ -13,7 +13,7 @@ virginie mukantwari
  
 ### Technologies used.
 
-### Contact information
+### Contact informations
  0786679517 
  Email :virgm2020gmail.com
 
