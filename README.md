@@ -11,7 +11,7 @@ virginie mukantwari
 ###  Setup instructions
 
  
-### Technologies useds
+### Technologies used.
 
 ### Contact information
  0786679517 
