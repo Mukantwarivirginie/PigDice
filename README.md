@@ -8,7 +8,7 @@ to use of prototypes in Javascript
 ### Author information
 virginie mukantwari
 
-### Setup instructions
+###  Setup instructions
 
  
 ### Technologies useds
